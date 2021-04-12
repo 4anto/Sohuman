@@ -1,6 +1,6 @@
 {
   "name": "SOHUMAN_USERBOT",
-  "description": "[SOHUMAN_USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "description": "[Sohuman_Userbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/11f46a57c8c13211cda92.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/4anto/Sohuman",
+  "repository": "https://github.com/4anto/Sohuman_Userbot",
   "telegram": "https://t.me/sohuman",
   "success_url": "https://t.me/sohuman",
   "stack": "container",
